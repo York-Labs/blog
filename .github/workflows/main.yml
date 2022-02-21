@@ -36,7 +36,7 @@ jobs:
         run: sudo npm install hexo-cli -g
       
       - name: Build
-        run: cd blog && hexo g
+        run: npm install && hexo g
 
       # Runs a set of commands using the runners shell
       - name: Deploy
