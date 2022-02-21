@@ -33,7 +33,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Prepare Hexo
-        run: npm install hexo-cli -g
+        run: sudo npm install hexo-cli -g
       
       - name: Build
         run: cd blog && hexo g
