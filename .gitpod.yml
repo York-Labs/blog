@@ -1,0 +1,3 @@
+tasks:
+  - init: yarn install
+image: gitpod/workspace-node-lts
