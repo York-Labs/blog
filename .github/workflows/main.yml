@@ -44,5 +44,5 @@ jobs:
         with:
           branch: main
           folder: blog/public
-          repository-name: yorklabs.github.io
+          repository-name: yorklabs/yorklabs.github.io
           token: ${{ env.PERTO }}
