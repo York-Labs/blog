@@ -46,3 +46,5 @@ jobs:
           folder: blog/public
           repository-name: yorklabs/yorklabs.github.io
           token: ${{ env.PERTO }}
+          git-config-name: York618
+          git-config-email: zys0307@outlook.com
