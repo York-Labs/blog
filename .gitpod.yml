@@ -1,3 +1,3 @@
 tasks:
-  - init: yarn install
+  - init: npm instal hexo-cli -g && cd blog && npm install
 image: gitpod/workspace-node-lts
