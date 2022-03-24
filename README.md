@@ -1,4 +1,4 @@
-# Blog
+# Blog 暂时不打算维护
 A blog to record some tech things ,such as codes, Linux, etc.
 ## Comment Policy:Things must to keep
 **You are welcome to express your opinions and comments here. If you violate the relevant laws and regulations of the People's Republic of China and damage the interests of others, collectives, society, or any country, York will have the right to delete comments.**
